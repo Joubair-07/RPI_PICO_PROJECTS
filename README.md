@@ -1,7 +1,7 @@
-# RPI_PICO_PROJECTS
+# RPI PICO PROJECTS
 
 
-  This repository contains easy biginner projects, that i make during my jorney in learning Raspberry pi pico W and MicroPython.
+  This repository contains easy biginner projects, that i made during my jorney in learning Raspberry pi pico W and MicroPython.
   
 
 
